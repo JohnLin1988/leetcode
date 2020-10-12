@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3948b212-b2c2-4467-9639-cc53b5753256" name="Default Changelist" comment="首次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gMKLwRvgUUnYLErE58zIU0huye" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Application.RomanToInteger">
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cute.leetcode.editor.cn.LongestCommonPrefix" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cute.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PalindromeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cute.leetcode.editor.cn.PalindromeNumber" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cute.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cute.leetcode.editor.cn.ReverseInteger" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cute.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RomanToInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cute.leetcode.editor.cn.RomanToInteger" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cute.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cute.leetcode.editor.cn.TwoSum" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cute.leetcode.editor.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RomanToInteger" />
+        <item itemvalue="Application.PalindromeNumber" />
+        <item itemvalue="Application.ReverseInteger" />
+        <item itemvalue="Application.TwoSum" />
+        <item itemvalue="Application.LongestCommonPrefix" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3948b212-b2c2-4467-9639-cc53b5753256" name="Default Changelist" comment="" />
+      <created>1597918968476</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597918968476</updated>
+      <workItem from="1597918969548" duration="6247000" />
+      <workItem from="1602481121343" duration="533000" />
+      <workItem from="1602481685664" duration="1368000" />
+      <workItem from="1602483716208" duration="3000" />
+      <workItem from="1602483788994" duration="19232000" />
+      <workItem from="1602515930339" duration="647000" />
+    </task>
+    <task id="LOCAL-00001" summary="首次提交">
+      <created>1602516062461</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602516062461</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="416" y="186" key="#Notifications" timestamp="1602484216616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="416" y="186" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1602484216616" />
+    <state width="438" height="443" key="DebuggerActiveHint" timestamp="1602512606594">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="438" height="443" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1602512606594" />
+    <state x="463" y="104" key="FileChooserDialogImpl" timestamp="1602515011572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1602515011572" />
+    <state x="494" y="282" key="Github.CreateGistDialog" timestamp="1602514063893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="494" y="282" key="Github.CreateGistDialog/0.0.1366.728@0.0.1366.728" timestamp="1602514063893" />
+    <state x="555" y="261" width="256" height="281" key="Github.ShareDialog" timestamp="1602516250803">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="555" y="261" width="256" height="281" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1602516250803" />
+    <state width="1322" height="228" key="GridCell.Tab.0.bottom" timestamp="1602512609974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602512609974" />
+    <state width="1322" height="228" key="GridCell.Tab.0.center" timestamp="1602512609973">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1602512609973" />
+    <state width="1322" height="228" key="GridCell.Tab.0.left" timestamp="1602512609972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1602512609972" />
+    <state width="1322" height="228" key="GridCell.Tab.0.right" timestamp="1602512609974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1602512609974" />
+    <state width="1322" height="228" key="GridCell.Tab.1.bottom" timestamp="1602512609977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1602512609977" />
+    <state width="1322" height="228" key="GridCell.Tab.1.center" timestamp="1602512609976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1602512609976" />
+    <state width="1322" height="228" key="GridCell.Tab.1.left" timestamp="1602512609975">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1602512609975" />
+    <state width="1322" height="228" key="GridCell.Tab.1.right" timestamp="1602512609976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="228" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1602512609976" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1602516582272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1602516582272" />
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2" timestamp="1602516124934">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="83" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1602516124934" />
+    <state x="209" y="86" width="947" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1602505590650">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="209" y="86" width="947" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1366.728@0.0.1366.728" timestamp="1602505590650" />
+    <state x="0" y="0" width="596" height="728" key="find.popup" timestamp="1602490818687">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" width="596" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1602490818687" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/cute/leetcode/editor/cn/TwoSum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/cute/leetcode/editor/cn/ReverseInteger.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/cute/leetcode/editor/cn/ReverseInteger.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/com/cute/leetcode/editor/cn/RomanToInteger.java</url>
+          <line>108</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
